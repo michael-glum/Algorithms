@@ -4,7 +4,7 @@
  */
 import java.util.*;
 
-public class Solution {
+public class QuickSort {
 	/**
      * Uses quick sort to sort an array in both ascending and descending order
      * by calling helper methods. 
