@@ -3,7 +3,7 @@
  * Copyright 2021 Michael Glum
  */
 
-class Solution {
+class InsertionSort {
 	
      /**
      * Sorts an array using insertion sort
