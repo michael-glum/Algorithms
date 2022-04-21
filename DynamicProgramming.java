@@ -7,7 +7,7 @@
 
 import java.util.*;
 
-public class HouseRob {
+public class DynamicProgramming {
 	public static void main(String[] args) {
 		int[] houses = {5,6,8,2,3,6,3,7,3,8,11,2,4,7,2,13,6,9,9,2};
 		
