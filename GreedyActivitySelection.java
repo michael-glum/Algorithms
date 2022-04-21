@@ -8,7 +8,7 @@
  */
 
 import java.util.*;
-public class ActivitySelection {
+public class GreedyActivitySelection {
 
 	/**
      * Simple main function to run the findMaxActivities helper method
