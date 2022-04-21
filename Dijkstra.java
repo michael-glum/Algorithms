@@ -5,7 +5,7 @@
  */
 import java.util.*;
 
-class Solution {	
+class Dijkstra {	
 	/**
      * Finds the minimum child node of a given node in a digraph and sets its
      * total cost
