@@ -5,7 +5,7 @@
 
 import java.util.Arrays;
 
-public class Solution {
+public class MergeSort {
     /**
      * Uses merge sort to sort an array in both ascending and descending order
      * by calling helper methods. 
