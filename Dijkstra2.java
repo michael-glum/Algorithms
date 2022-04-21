@@ -4,7 +4,7 @@
  * Copyright 2021 Michael Glum
  */
 
-class Solution {
+class Dijkstra2 {
 	/**
      * Helper method used to find the node with the minimum cost.
      * @param times The array of directed edges with weights
